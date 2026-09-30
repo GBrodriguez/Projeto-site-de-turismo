@@ -1,0 +1,15 @@
+img {
+    width: 100%;]
+    object-fit: cover;
+    border-radius: 28px;
+    display: block;
+}
+
+.imagem principal {
+    height: 660px;
+}
+
+#page {
+    padding: 80px;
+    margin: auto;
+}
