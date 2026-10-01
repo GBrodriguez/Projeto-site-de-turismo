@@ -77,6 +77,10 @@ img {
     margin: auto;
 }
 
+.divisor-fig {
+    margin-top: 40px;
+}
+
 .divisor {
     border: 0;
     border-top: 1px solid #d9d9d9;
